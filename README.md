@@ -1,5 +1,13 @@
-# Python
+# Jupyter
 Homeworks I made in Introduction to Computer Engineering. I used Google Colab for my homeworks.
+
+
+## Table of Contents
+
+- [Factorial](#factorial)
+- [List and Tuple](#list-and-tuple)
+- [First and Last](#first-and-last)
+- [Division](#division)
 
 # Factorial
 A function which can compute the factorial of a given numbers. Results are printed in a comma-separated order on a single line.
